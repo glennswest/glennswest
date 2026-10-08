@@ -2,6 +2,8 @@
 
 An image-based operating system with its own Kubernetes, storage and networking, written almost entirely in **Rust**.
 
+**538,027 total shipped Rust lines** — 96.2% of a 54-repository stack, built in 232 days with about 65 hours of human attention. Counted from the repositories themselves, not estimated: [mythical-man-month-2026](https://github.com/glennswest/mythical-man-month-2026). The story behind it: [The Death of the Man-Month](https://github.com/glennswest/death-of-the-man-month).
+
 #### Core projects
 
 | Project | What it is | Shipped Rust lines |
